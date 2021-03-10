@@ -1,0 +1,15 @@
+current directory: /home/rails/Paratha_System/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-3.0.0/bin/ruby -I /usr/share/rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20210310-6182-eixc29.rb extconf.rb
+creating Makefile
+
+current directory: /home/rails/Paratha_System/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/rails/Paratha_System/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/rails/Paratha_System/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20210310-6182-h2l7wr
